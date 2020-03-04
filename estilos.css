@@ -1,0 +1,117 @@
+.container{
+border-radius: 10px ;
+border:10px  ;
+height: 750px;
+width: 850px;
+margin: auto;
+}
+header{
+	border:3px solid rgb(47, 152, 223);
+	height: 120px;
+	width:700px;
+	background: url(file:///C:/Users/SENA/Desktop/ejer/imagenes/logo.jpg);
+	background-position: top;
+	border-radius: 20px 20px 00 00;
+	margin-left: 15px;
+	margin-top: 15px;
+	padding: auto;
+	margin: auto;
+	
+}
+#naranja{
+border:3px solid rgb(34, 54, 34);
+background: rgb(34, 54, 34);
+border-radius: 00 00 20px 20px;
+height:50px;
+width: 700px;
+margin-left: 15px;
+margin-right: 29px;
+margin: auto;
+}
+li{
+list-style-type: none;
+float:left;
+padding: 00px 15px;
+}
+li a{
+	text-decoration: none;
+color: honeydew;
+}
+.primero{
+	border: 2px solid rgb(210, 212, 62);
+	width:425px;
+	height: 200px;
+	margin-left: 75px;
+	margin-top: 5px;
+	border-radius: 15px 15px 00px 00px;
+	background-color: rgb(210, 212, 62);
+	text-align: center;	
+}
+.segundo{
+	border: 2px solid rgb(210, 212, 62);
+	width:425px;
+	height: 200px;
+	margin-left: 75px;
+	margin-top: 5px;
+	border-radius: 00px 00px 15px 15px;
+	background-color: rgb(210, 212, 62);
+	text-align: center;	
+}
+.titulo{
+	font-family: "Arial";
+	font-size: 20px;
+	font-weight: bold;
+}
+.titulo1{
+	font-family: "Arial";
+	font-size: 20px;
+	font-weight: bold;
+}
+section{
+border: solid black;
+background-color: rgb(148, 132, 132);
+width: 250px;
+height: 405px;
+float: right;
+margin-top: 5px;
+border-radius: 20px;
+margin-right: 70px;
+}
+.text{
+	font-family: "Arial";
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 30px;	
+	color: black;
+}
+footer{
+	border: solid black;
+	background-color: black;
+	width: 83%;
+	height: 125px;
+	margin: auto;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.fin{
+	font-family: "Arial";
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 30px;	
+	color: blanchedalmond;
+	margin-left: 0px;
+	text-align: center;
+}
+label{
+margin-left: 5px;
+margin-top: 25px;
+font-size: 20px;
+display: block;
+color: black;
+}
+input {
+
+}
+form{
+	text-align: center;
+}
